@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BuffaGonzalo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BuffaGonzalo&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## 🌟 Featured Projects
 - [Project Name 1](#): Brief description of Project 1
