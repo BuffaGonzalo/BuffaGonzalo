@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm BuffaGonzalo
 
-<!--
-**BuffaGonzalo/BuffaGonzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building awesome projects. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📚 I’m currently studing engenieering
+- 🌱 I’m currently learning low-level programming 
+- 💡 I’m interested in programming, 3D design
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Programming Languages**: c, c++
+- **Frameworks & Libraries**: Qt, mbed
+- **Tools & Platforms**: Git, GitHub
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+- [Project Name 1](#): Brief description of Project 1
+- [Project Name 2](#): Brief description of Project 2
+
+## 🌐 Let's Connect
+- [LinkedIn](#)
+- [Twitter](#)
+- [Personal Website/Portfolio](#)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. 🚀
