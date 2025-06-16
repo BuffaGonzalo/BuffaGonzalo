@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/c%2B%2B/00599C" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/qt/41CD52" alt="Qt" width="40" height="40"/>
 
