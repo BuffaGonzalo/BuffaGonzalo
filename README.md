@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 <p align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact&theme=dark)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact&theme=dark)  
+[Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo&theme=dark)
 
 </p>
 
