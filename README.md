@@ -31,6 +31,27 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=dark) ![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USER&theme=dark)
 </p>
 
+## Languages & Tools
+
+<p align="center">
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+</p>
+
+
+## Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/c%2B%2B/00599C" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/qt/41CD52" alt="Qt" width="40" height="40"/>
+
+</p>
+
 
 
 <!--
