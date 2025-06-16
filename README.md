@@ -12,11 +12,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Frameworks & Libraries**: Qt, mbed
 - **Tools & Platforms**: Git, GitHub
 
-
-## 📊 GitHub Stats
 <!---
+## 📊 GitHub Stats
 
--->
+
 
 <p align="center">
 
@@ -26,14 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 </p>
 
-## Languages & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50"/>
-  <!-- …otros… -->
-</p>
+-->
 
 
 # 💻 Tech Stack:
@@ -46,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BuffaGonzalo&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
--->
+
 ## 🌟 Featured Projects
 - [MCC25](#): Brief description of Project 1
 <!-- - [Project Name 2](#): Brief description of Project 2 -->
@@ -55,6 +47,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - [LinkedIn](#)
 - [Twitter](#)
 - [Personal Website/Portfolio](#)
--->
+
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. 🚀
+-->
