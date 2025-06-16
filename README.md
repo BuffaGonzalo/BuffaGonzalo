@@ -1,6 +1,7 @@
-# Hi, I'm Gonzalo Buffa
+<!-- # Hi, I'm Gonzalo Buffa -->
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-Currently working on my coding skills, I'm passionate about low-level programming in C/C++. In my free time I am improving my 3D designing skills and also developing some projects to put into practice the knowledge adquired.
+
+I'm Gonzalo Buffa. Currenty studying engeneering and looking forward to improving my coding skills, I'm passionate about low-level programming in C/C++. In my free time I am improving my 3D designing skills and also developing some projects to put into practice the knowledge adquired.
 ## 🚀 About Me
 - 📚 Studing mechatronics engenieering
 - 📈 Currently learning low-level programming 
