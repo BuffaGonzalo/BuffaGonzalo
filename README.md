@@ -1,6 +1,10 @@
 
 ![PlaneHR](https://github.com/user-attachments/assets/c3722f2b-68f1-4a18-b19b-effd06dfffad)
 
+![8Bit _ Pixel _ Space _ Moon](https://github.com/user-attachments/assets/3a44b39e-3dc4-472a-af15-cb810f2655c8)
+![More Fantastical 64 Bit Gifs](https://github.com/user-attachments/assets/2ab10ca7-5798-4f5a-a8a7-300c0808468a)
+![ERRANCE BLANCHE _ PIXELART - Camille Unknown](https://github.com/user-attachments/assets/e4516648-ed0f-4c97-bb2d-6a5617431a6c)
+![SpaceShuttle](https://github.com/user-attachments/assets/ddbed17f-292a-445d-afe1-3952b1cf1faa)
 
 # Hi there 👋, I'm Gonzalo Buffa
 
