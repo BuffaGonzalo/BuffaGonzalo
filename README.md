@@ -1,3 +1,6 @@
+
+![Plane](https://github.com/user-attachments/assets/0346a877-2881-448f-a252-f7cf627ae818)
+
 # Hi there 👋, I'm Gonzalo Buffa
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building awesome projects. Here's a little about me:
@@ -11,6 +14,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - **Programming Languages**: c, c++
 - **Frameworks & Libraries**: Qt, mbed
 - **Tools & Platforms**: Git, GitHub
+
+
 
 <!---
 ## 📊 GitHub Stats
