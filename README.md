@@ -1,7 +1,5 @@
-# Hi there 👋, I'm Gonzalo Buffa
-
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building awesome projects. Here's a little about me:
-
+# Hi, I'm Gonzalo Buffa
+Currently working on my coding skills, I'm passionate about low-level programming in C/C++. In my free time I am improving my 3D designing skills and also developing some projects to put into practice the knowledge adquired.
 ## 🚀 About Me
 - 📚 Studing mechatronics engenieering
 - 📈 Currently learning low-level programming 
