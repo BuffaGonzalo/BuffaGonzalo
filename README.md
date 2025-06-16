@@ -29,11 +29,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/qt/41CD52" alt="Qt" width="40" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50"/>
+  <!-- …otros… -->
 </p>
 
 
