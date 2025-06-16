@@ -15,16 +15,17 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 💪 My GitHub Stats
 <!---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo)  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo)
+
 -->
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USER)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo&theme=dark)
+
 </p>
+
 
 
 <!--
