@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 💪 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo)
 
 ## 📈 Activity Graph
