@@ -27,6 +27,11 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 </p>
 
 
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=dark) ![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USER&theme=dark)
+</p>
+
+
 
 <!--
 
