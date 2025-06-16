@@ -1,5 +1,6 @@
 
-![Plane](https://github.com/user-attachments/assets/0346a877-2881-448f-a252-f7cf627ae818)
+![PlaneHR](https://github.com/user-attachments/assets/c3722f2b-68f1-4a18-b19b-effd06dfffad)
+
 
 # Hi there 👋, I'm Gonzalo Buffa
 
