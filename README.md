@@ -21,26 +21,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 <p align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuffaGonzalo&show_icons=true&theme=dark)  
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact&theme=dark)  
-[Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuffaGonzalo&layout=compact&theme=dark)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=BuffaGonzalo&theme=dark)
 
 </p>
-
-
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USER&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USER&layout=compact&theme=dark) ![Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USER&theme=dark)
-</p>
-
-## Languages & Tools
-
-<p align="center">
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-</p>
-
 
 ## Languages & Tools
 
