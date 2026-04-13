@@ -2,7 +2,7 @@
 
 I'm Gonzalo Buffa. Currently studying engineering and looking forward to improving my coding skills, I'm passionate about low-level programming in C/C++. In my free time I am improving my 3D designing skills and also developing some projects to put into practice the knowledge acquired.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25px"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="25px"> About Me
 - 📚 Studying mechatronics engineering
 - 📈 Currently learning low-level programming 
 - 💡 Interested in programming & 3D design 
@@ -18,14 +18,16 @@ I'm Gonzalo Buffa. Currently studying engineering and looking forward to improvi
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25px"> Statistics:
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
-    <td width="40%">
+    <td width="60%">
       <img src="https://github-readme-stats.shion.dev/api?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
     </td>
     <td width="40%">
-      <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark&hide_border=false" width="100%" />
-    </td>
-    <td width="20%">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
