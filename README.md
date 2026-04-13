@@ -18,10 +18,11 @@ I'm Gonzalo Buffa. Currently studying engineering and looking forward to improvi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25px"> Statistics:
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark&hide_border=false" height="170px" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170px" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark" height="170px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&layout=compact" height="170px" />
+</p>
 
 <br/>
 
