@@ -21,11 +21,11 @@ I'm Gonzalo Buffa. Currently studying engineering and looking forward to improvi
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
-    <td width="60%">
+    <td width="60%" align="center">
       <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark&hide_border=false" width="100%" />
     </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
