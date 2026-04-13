@@ -19,16 +19,13 @@ I'm Gonzalo Buffa. Currently studying engineering and looking forward to improvi
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25px"> Statistics:
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="150px" />
+    <td width="65%">
+      <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark&hide_border=false" width="100%" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=BuffaGonzalo&theme=github_dark&hide_border=false" height="150px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150px" />
+    <td width="35%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=BuffaGonzalo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" />
     </td>
   </tr>
 </table>
